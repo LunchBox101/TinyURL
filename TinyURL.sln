@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyURL", "TinyURL\TinyURL.csproj", "{0EF95E43-3341-4420-BA49-EEB280934B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF95E43-3341-4420-BA49-EEB280934B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF95E43-3341-4420-BA49-EEB280934B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF95E43-3341-4420-BA49-EEB280934B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF95E43-3341-4420-BA49-EEB280934B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8A1FBA-CED7-4EDF-9A07-C24FD00C66F1}
+	EndGlobalSection
+EndGlobal
